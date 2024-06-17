@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"FizzBuzz","l":"com.mahad"}];updateSearchResults();
